@@ -1,5 +1,0 @@
-package golangsnippetbox
-
-func main() {
-
-}
